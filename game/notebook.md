@@ -12,7 +12,16 @@
 
 ## Notes
 *Use this space to record your findings and deductions...*
-A note from The Mayor mentions witnessing something concerning near the dock.
+1. A note from The Mayor mentions witnessing something concerning near the dock.
+2. At last! This untouched crime scene reveals the truth. No one has been here since the incident.
 
+Your careful detective work has paid off. The empty state of this room matches
+witness accounts - no one was around when the crime occurred. This must be
+where the murderer carried out their plan!
+
+Make sure to document this discovery in your notebook.md file along with your
+other findings about the weapon and suspect.
+3.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
+
