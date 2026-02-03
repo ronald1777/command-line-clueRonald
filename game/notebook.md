@@ -26,21 +26,14 @@ Make sure to document this discovery in your notebook.md file along with your
 other findings about the weapon and suspect.
 
 
-3. New Clue:
-
-Go back and check the storage in the shops.
-
-Hint: You'll need to go back several directories to reach this location.
-Remember that you can use multiple '../' to go up multiple levels:
-- 'cd ..'    goes up one level
-- 'cd ../..' goes up two levels
-- and so on...
-
+3. Go back and check the storage in the shops.
 4. Go back and check the market in the shops.
 5. Go back and check the offices in the town hall.
-6. 
+6. Go to the gazebo in the park.
+7. 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
+
 
 
 
