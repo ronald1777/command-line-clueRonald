@@ -36,8 +36,11 @@ Remember that you can use multiple '../' to go up multiple levels:
 - 'cd ..'    goes up one level
 - 'cd ../..' goes up two levels
 - and so on...
-4.
+
+
+4. Go back and check the market in the shops.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
+
 
 
